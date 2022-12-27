@@ -1,6 +1,4 @@
-# Tailwind_CSS
-Creating a landing page using tailwind Css libraray
-<li>Navbar is done</li>
-<li>Header Section Completed</li>
-<li>Mid section is completed</li>
-<li>Upper header is completed</li>
+i# Tailwind_CSS
+
+<h1>Creating a landing page using tailwind Css libraray, it's a individual mini project.</h1>
+<img src="./img/Screenshot (40).png" alt="">
